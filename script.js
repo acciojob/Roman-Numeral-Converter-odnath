@@ -29,7 +29,4 @@ function convertToRoman(num) {
   return result;
 }
 
-// Example usage:
-console.log(convertToRoman(14));   // Output: XIV
-console.log(convertToRoman(798));  // Output: DCCXCVIII
 
